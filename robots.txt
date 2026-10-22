@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ksumanasri.github.io/sitemap.xml
+Sitemap: https://ksumanasri.github.io/ksumanasri1/sitemap.xml

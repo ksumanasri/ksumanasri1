@@ -12,7 +12,7 @@ The site turns academic work and practical learning into a clear professional na
 
 ## Live Portfolio
 
-[Open the live portfolio](https://ksumanasri.github.io/)
+[Open the live portfolio](https://ksumanasri.github.io/ksumanasri1/)
 
 ## Highlights
 
